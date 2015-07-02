@@ -1,0 +1,525 @@
+@charset "UTF-8";
+
+
+.cajitaInside{
+	/*padding:7px;*/
+	padding-left:10px;
+/*	padding-right:10px;*/
+	padding-top:0px;
+	padding-bottom:10px;
+	margin-left:15px;
+	margin-bottom:15px;
+	width:220px;
+	/*	height:120px;*/
+	background-color:#FFF;
+	/*	height:auto;*/
+	top:0px;
+	height:auto;
+	float:right;
+	/*	margin-right:0px;*/
+	border-left:solid #ccc 1px; /*
+border-bottom:solid #ccc 1px;
+	border-top:solid #ccc 1px;
+	border-right:solid #ccc 1px;*/
+/*margin-top:5px; margin-bottom:12px;*/
+
+}
+
+
+
+
+.thumby{
+	width:70px;
+	height:70px;
+	height:auto;
+	background-color:#fff;
+	top:0px;
+	margin-top:9px;
+	float:left;
+	margin-right:12px;
+}
+
+
+
+/*CURSOS */
+.copyHead {
+	FONT: 16px/20px Verdana, Arial, sans-serif; COLOR: #FFFFFF; TEXT-DECORATION: none
+}
+
+.Selectors{ 
+border:1px  solid #ccc; background-color:#FFF;  
+color:#333;
+font-family: Verdana, Arial;
+font-size: 15px;
+}
+
+.commentBlanco {
+font-size:12px;
+font-family: 'Lucida Grande', Verdana, Arial;
+color: #ffffff;
+font-stretch:expanded;
+TEXT-DECORATION: none;
+}
+
+
+.cajitaAmigos{ background-color:#fff;
+	width:150px;
+	height:150px;
+	padding-top:8px;
+	padding-bottom:8px;
+	padding-left:8px;
+	padding-right:8px;
+TEXT-DECORATION: none;
+display:block;
+float:left;
+
+}
+
+.thumbborder{ 
+	width:20px;
+	height:13px;
+	border:0px;
+	padding-top:8px;
+	padding-bottom:8px;
+	padding-left:8px;
+	padding-right:8px;
+TEXT-DECORATION: none;
+display:block;
+float:left;
+}
+
+.thumbborder:hover {
+	background-color: white;
+}
+
+
+
+
+.cajitaLocatorTexto{
+	color:#333;
+	TEXT-DECORATION: none;
+	font-family: Verdana, Arial;
+	font-size: 13px;
+	letter-spacing:0px;
+	font-weight:normal;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+
+
+.cajitacurso{
+	width:635px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:2px;
+	padding-bottom:18px;
+	background-color:#FFF;
+		text-align:justify;
+		display:table;
+}
+
+
+
+.letragay{
+	width:100%;
+	color:#999;
+	padding-left:20px;
+	padding-right:20px;
+/*	color:#CCC;*/
+	font-family: Verdana, Arial;
+	font-size: 25px;
+/*	padding-top:0px;
+	padding-bottom:13px;*/
+	TEXT-DECORATION: none;
+/*	margin-bottom:15px;*/
+	font-weight:normal;
+/*	float:right;*/
+
+}
+
+.cajitacursoTitulo{
+	width:100%;
+	color:#000;
+	font-family: Verdana, Arial;
+	font-size: 14px;
+	/*	border-bottom:#ccc;
+	border-bottom-style:solid;
+	border-bottom-width:1px;*/
+	padding-top:2px;
+	padding-bottom:3px;
+	TEXT-DECORATION: none;
+	font-weight:bold;
+	/*letter-spacing:-1px;*/
+}
+
+
+.TituloPeque{
+/*	width:100%;*/
+	color:#333;
+	font-family: Verdana, Arial;
+	font-size: 15px;
+	/*	border-bottom:#ccc;
+	border-bottom-style:solid;
+	border-bottom-width:1px;*/
+	padding-top:2px;
+	padding-bottom:3px;
+	TEXT-DECORATION: none;
+	font-weight:bold;
+	letter-spacing:0px;
+}
+
+.TtuloCursoInside {
+	color:#000;
+	font-family: Verdana, Arial;
+	font-size:19px;
+	letter-spacing:-1px;
+	font-weight:bold;
+	display: block;
+	padding: 10px 7px 7px 0px;
+	padding-bottom:5px;
+/*	text-align:justify;*/
+}
+
+.cajitaFecha{
+	color:#333;
+	background-image:url(nice.jpg);
+	background-repeat:no-repeat;
+	background-position:top;
+TEXT-DECORATION: none;
+font-family: Verdana, Arial;
+font-size: 13px;
+padding-top:6px;
+
+padding-bottom:6px;
+letter-spacing:0px;
+/*	border-top:#ccc;
+	border-top-style:solid;
+	border-top-width:1px; */
+}
+
+
+.letraQuees{
+	color:#666;
+TEXT-DECORATION: none;
+font-family: Verdana, Arial;
+font-size: 11px;
+/*padding-top:6px;
+padding-bottom:6px;*/
+letter-spacing:0px;
+padding-left:17px;
+	
+}
+
+.azulito {
+	text-align:justify;
+	color:#333;
+	TEXT-DECORATION: none;
+	line-height:22px;
+	font-family: arial, helvetica;
+	font-size: 13px;
+	line-height: 14px;
+	font-weight:normal;
+}
+
+.textADM {
+color:#333;
+TEXT-DECORATION: none;
+font-family: Verdana, Arial;
+font-size: 13px;
+line-height: 17px;
+}
+
+
+/*CURSOS */
+
+
+/*adm */
+
+
+.style2{
+color:#333;
+margin-top:20px;
+margin-bottom:20px;
+font-family: Verdana, Arial;
+font-size: 19px;
+TEXT-DECORATION: none;
+font-weight:bold;
+letter-spacing:-1px;
+}
+
+
+.style14 
+{
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+}
+
+.docer {
+	color: #FFFFFF;
+	height:25px;
+
+	background-color:#006699;
+}
+			  
+			    .font_normal
+        {
+	font: 12px arial, verdana;
+	
+        }
+		        .font_contenido
+        {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+        }
+		
+.style20 A:link {font-family: Arial, Helvetica, sans-serif;  color: #FFFFFF; 	TEXT-DECORATION: none; font-size:14px; }
+.style20 A:visited {font-family: Arial, Helvetica, sans-serif;  color: #FFFFFF; 	TEXT-DECORATION: none; font-size:14px; }
+.style20 A:hover {font-family: Arial, Helvetica, sans-serif;  color: #FFFFFF; 	TEXT-DECORATION: none; font-size:14px; }
+.style20 {font-family: Arial, Helvetica, sans-serif; color: #FFFFFF; 	TEXT-DECORATION: none; font-size:14px; }
+ 
+.light_back
+        {
+
+          border-bottom:solid #ccc 0px; 
+		  border-left:solid #ccc 0px; 
+		  border-top:solid #ccc 0px; 
+		  border-right:solid #ccc 0px; 
+		  margin-top:20px;
+		  background-color:#FFF;
+		  padding-left:5px;
+		  padding-right:5px;
+        }
+		
+		.light_white
+        {
+
+          border-bottom:solid #FFFFFF 1px; 
+		  border-left:solid #FFFFFF 1px; 
+		  border-top:solid #FFFFFF 0px; 
+		  border-right:solid #FFFFFF 1px; 
+		  margin-top:0px;
+		  
+		  
+		  }
+		
+/*adm */
+.Letratituloazul {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	font-weight: bold;
+	font-size: 13px;
+	TEXT-DECORATION: none;
+	text-align:left;
+
+}
+
+
+
+
+
+ MENU MENUMENU MENUMENU MENUMENU MENUMENU MENUMENU MENUMENU MENU 
+
+
+.letra{
+	background:url(../images/nav-vert-bg.jpg) right repeat-y;
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #666666;
+	display: block;
+	width: auto;
+	padding: 5px 24px 5px 0px; 
+	margin: 0px 0px 0px 0px;
+	text-decoration: none;
+	text-align:right;
+	width:161px;
+	
+}
+
+.letrasubtitulo{
+	font: 15px Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	color:#000;
+	padding: 5px 7px 7px 0px;
+	width: auto;
+	margin: 0px 0px 0px 0px;
+	text-decoration: none;
+}
+
+.letracontenido{
+	font: 12px Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-align:justify;
+		padding: 5px 7px 7px 0px; 
+	width: auto;
+	margin: 0px 0px 0px 0px;
+	text-decoration: none;	
+}
+
+
+
+
+
+table.color {
+padding: 0;
+margin: 0;
+border-width: 0.5;
+border-style: solid;
+border-color: #333332;
+
+}
+
+.style7 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration:none;
+	color:#333;
+
+}
+
+
+
+
+
+.whitetable {
+text-align:justify;
+margin-left:20px;
+/*border-bottom-style:double;
+border-color:#000000;
+border-bottom-width:medium;
+border-top-width:0px;*/
+height:20px;
+background-color:#ffffff;
+TEXT-DECORATION: none;
+
+}
+
+
+
+
+
+
+.tablabanner1 {
+    background-repeat:repeat-x;
+	background-color:#FFFFFF;
+/*	background-image:url(images/bannerpiece.jpg);*/
+	}
+
+
+
+
+
+
+.column {
+	Z-INDEX: 1;
+	COLOR: #000000;
+	padding: 3px;
+	letter-spacing: 0em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-align: justify;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.style3 {
+	color:#F00;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: Verdana, Arial, sans-serif;
+	line-height: 18px;
+}
+column A {
+	COLOR: #00009b
+}
+.column A:hover {
+	COLOR: #951515
+}
+
+body {
+margin-top: 0px;
+       background-color:#c8dcf0;
+		margin-left: 0px;
+	margin-right: 0px;
+}
+
+#Cajita {
+	position:absolute;
+	width:280px;
+	z-index:1;
+}
+
+
+
+
+
+
+#thumbnail {float:left; 
+margin:0 7px 0 0; 
+max-height:100px;
+max-width:100px;
+}
+
+
+
+
+
+#thumb {
+max-height:100px;
+max-width:100px;
+}
+
+
+
+
+.titulocaledario {
+text-align: justify;
+	COLOR: #000000;
+	TEXT-DECORATION: none;
+	font-family: Verdana, Arial;
+	font-size: 11px;
+	padding-left:15px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+		
+}
+
+
+
+
+
+
+
+.copy {
+	COLOR: #333333;
+	TEXT-DECORATION: none;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+}
+.copy A:link {
+	COLOR: #333333
+}
+.copy A:visited {
+	COLOR: #333333
+}
+.copy A:hover {
+	COLOR: #999999
+}
+
+
+.footer {
+	FONT: 10px/13px Verdana, Arial, sans-serif; COLOR: #7c7e7c; TEXT-ALIGN: center
+}
+
+
+.menuArriba {
+	FONT: 12.5px Verdana, Arial, sans-serif;
+	COLOR: #000;
+	font-weight: 1000px;
+	TEXT-DECORATION: none;
+	margin-left: 2px;
+	margin-right: 2px;
+	letter-spacing: 0.04em;
+	font-weight:normal;
+}

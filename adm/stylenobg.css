@@ -1,0 +1,78 @@
+.column {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; Z-INDEX: 1; PADDING-BOTTOM: 3px; FONT: 10px Verdana, Arial, sans-serif; COLOR: #000000; PADDING-TOP: 3px
+}
+column A {
+	COLOR: #00009b
+}
+.column A:hover {
+	COLOR: #951515
+}
+.copy {
+	FONT: 11px/18px Verdana, Arial, sans-serif; COLOR: #333333; TEXT-DECORATION: none
+}
+.copy A:link {
+	COLOR: #333333
+}
+.copy A:visited {
+	COLOR: #333333
+}
+.copy A:hover {
+	COLOR: #999999
+}
+.medium {
+	PADDING-BOTTOM: 8px;
+	COLOR: #000000;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+	line-height: 13px;
+}
+.medium A {
+	COLOR: #00009b
+}
+.medium A:hover {
+	COLOR: #951515
+}
+.small {
+	PADDING-BOTTOM: 8px; FONT: 10px/13px Verdana, Arial, sans-serif; COLOR: #000000
+}
+.small A {
+	COLOR: #00009b
+}
+.small A:hover {
+	COLOR: #951515
+}
+.copyHead {
+	FONT: 12px/18px Verdana, Arial, sans-serif; COLOR: #666666; TEXT-DECORATION: none
+}
+.copyHead A:link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.copyHead A:visited {
+	COLOR: #333333; TEXT-DECORATION: none
+}
+.copyHead A:hover {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+.copyHead A:active {
+	COLOR: #999999; TEXT-DECORATION: none
+}
+.NewsHead {
+	FONT: bold 12px/18px Verdana, Arial, sans-serif; COLOR: #003366; TEXT-DECORATION: none
+}
+.ServiceHeads {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666; LINE-HEIGHT: 24px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.NewsHeadGREY {
+	FONT: bold 10px/18px Verdana, Arial, sans-serif; COLOR: #666666; TEXT-DECORATION: none
+}
+.HonorsText {
+	FONT: 10px/14px Verdana, Arial, sans-serif; COLOR: #666666; TEXT-DECORATION: none
+}
+.copyHeadWhite {
+	FONT: 11px/22px Verdana, Arial, sans-serif;
+	COLOR: #CCCCCC;
+	TEXT-DECORATION: none;
+	margin-left: 6px;
+	margin-right: 3px;
+	letter-spacing: 0.04em;
+}
